@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yeyogonchalez
 - 👀 I’m interested in Software Engineering and Game Development
-- 🌱 I’m currently learning C and PostgreSQL 
+- 🌱 I’m currently learning C++ 
 - 📫 How to reach me: diegogonzalez.vch@gmail.com
 
 <!---
