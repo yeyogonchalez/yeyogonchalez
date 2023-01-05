@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yeyogonchalez
-- 👀 I’m interested in Software Engineering and Game Development
+- 👀 I’m interested in Software Engineering and Machine Learning
 - 🌱 I’m currently learning C++ 
 - 📫 How to reach me: diegogonzalez.vch@gmail.com
 
